@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 octave-workspace
+*.aux
+*.log
+*.out
+*.tex
+*.gz
+
