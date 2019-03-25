@@ -5,4 +5,5 @@ octave-workspace
 *.out
 *.tex
 *.gz
+*.pdf
 
